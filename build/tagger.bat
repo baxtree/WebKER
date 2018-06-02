@@ -1,0 +1,1 @@
+start java -jar tagger.jar Evaluator
