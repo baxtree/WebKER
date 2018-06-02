@@ -1,0 +1,75 @@
+BODY {
+	FONT-SIZE: 12px; MARGIN: 0px; FONT-FAMILY: "ËÎÌו", Arial; TEXT-ALIGN: center
+}
+TD {
+	FONT-SIZE: 12px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+#foot {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1em auto 0px; WIDTH: 780px; LINE-HEIGHT: 1.6; PADDING-TOP: 0.8em; FONT-FAMILY: Arial; TEXT-ALIGN: center
+}
+#foot A {
+	FONT-FAMILY: Arial
+}
+A:link {
+	FONT-FAMILY: "ËÎÌו", Arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-FAMILY: "ËÎÌו", Arial; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.s1 {
+	COLOR: #0066cb
+}
+.red {
+	COLOR: #f00
+}
+A.red {
+	COLOR: #f00
+}
+.black {
+	COLOR: #000
+}
+A.black {
+	COLOR: #000
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+A.f14 {
+	FONT-SIZE: 14px
+}
+.gray {
+	COLOR: #999
+}
+A.gray {
+	COLOR: #999
+}
+.l {
+	FLOAT: left
+}
+.r {
+	FLOAT: right
+}
+.input1 {
+	WIDTH: 420px
+}
+.col3 {
+	FLOAT: left; WIDTH: 33%
+}
+.col2 {
+	FLOAT: left; WIDTH: 48%
+}
+.hack {
+	CLEAR: both; DISPLAY: block; FONT: 0px/0px sans-serif
+}
+.w950 #foot {
+	WIDTH: 950px
+}

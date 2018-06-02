@@ -1,0 +1,63 @@
+#phd {
+	CLEAR: both; FONT-SIZE: 12px; MARGIN: 8px auto 0px; WIDTH: 780px; FONT-FAMILY: "ËÎÌו",arial
+}
+.w950 #phd {
+	FONT-SIZE: 12px; WIDTH: 950px
+}
+#phd .lg {
+	FLOAT: left
+}
+#phd .wo {
+	FLOAT: left; MARGIN: 0px 0px 0px 15px; COLOR: #ccc; LINE-HEIGHT: 20px; TEXT-ALIGN: left
+}
+A.n1:link {
+	COLOR: #c54832! important
+}
+A.n1:visited {
+	COLOR: #c54832! important
+}
+#phd .n2 {
+	MARGIN: 0px 0px 2px; TEXT-ALIGN: left
+}
+#phd .psch .i1 {
+	BORDER-RIGHT: #a7a6aa 1px solid; PADDING-RIGHT: 0.1em; BORDER-TOP: #a7a6aa 1px solid; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; BORDER-LEFT: #a7a6aa 1px solid; WIDTH: 150px; PADDING-TOP: 0.2em; BORDER-BOTTOM: #a7a6aa 1px solid
+}
+#phd .phn {
+	BORDER-TOP: #ccc 1px solid; MARGIN: 5px 0px 0px; LINE-HEIGHT: 28px; TEXT-ALIGN: right
+}
+#phd A {
+	COLOR: #0000ce
+}
+#foot A {
+	COLOR: #0000ce
+}
+#foot {
+	COLOR: #b5b5b5
+}
+A.copy:link {
+	COLOR: #668bf1! important
+}
+A.copy:visited {
+	COLOR: #668bf1! important
+}
+A.copy:hover {
+	COLOR: #668bf1! important
+}
+A.copy:active {
+	COLOR: #668bf1! important
+}
+A.small:link {
+	COLOR: #668bf1! important
+}
+A.small:visited {
+	COLOR: #668bf1! important
+}
+A.small:hover {
+	COLOR: #668bf1! important
+}
+A.small:active {
+	COLOR: #668bf1! important
+}
+#phd A {
+	FONT-SIZE: 12px; FONT-FAMILY: "ËÎÌו",arial
+}
